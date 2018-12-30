@@ -6,7 +6,7 @@
 This is our knowledge base, there are many like it, but this one is ours. Every piece of information and resources provided here are based solely on our personal experience. We hope that this repository will help you and us become better version of ourselves. 
 
 ## Getting started! 🚀
-To hit the ground running consider resources in the following order:
+To hit the ground running by considering resources in the following order:
 - [W3Schools - HTML, CSS, JS basics](https://www.w3schools.com/)
 - [Codecademy - Intro to JS](https://www.codecademy.com/learn/introduction-to-javascript)
 - [Codecademy - Learn Git](https://www.codecademy.com/learn/learn-git)
@@ -45,7 +45,7 @@ To hit the ground running consider resources in the following order:
 ## Self-dev 🧬
 
 - [Hell Week: Seven Days to Be Your Best Self](https://www.amazon.com/Hell-Week-Seven-Days-Your/dp/1476783365)
-- [Impact Theory - Most Impactful things you'd watch on YT](https://www.youtube.com/channel/UCnYMOamNKLGVlJgRUbamveA)
+- [Impact Theory - Most Impactful Interview You Will Watch on YT](https://www.youtube.com/channel/UCnYMOamNKLGVlJgRUbamveA)
 - [Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.coursera.org/learn/learning-how-to-learn)
 - [Deep Work - Rules for Focused Success in a Distracted World](https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692)
 - [Black Mirror series](https://www.imdb.com/title/tt2085059/)
