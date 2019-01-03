@@ -6,7 +6,7 @@
 This is our knowledge base, there are many like it, but this one is ours. Every piece of information and resources provided here are based solely on our personal experience. We hope that this repository will help you and us become better version of ourselves. 
 
 ## Getting started! 🚀
-To hit the ground running by considering resources in the following order:
+To hit the ground running consider resources in the following order:
 - [W3Schools - HTML, CSS, JS basics](https://www.w3schools.com/)
 - [Codecademy - Intro to JS](https://www.codecademy.com/learn/introduction-to-javascript)
 - [Codecademy - Learn Git](https://www.codecademy.com/learn/learn-git)
