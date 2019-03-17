@@ -12,7 +12,7 @@ bot = facade.getBot()
 @bot.message_handler(commands=['start'])
 def send_welcome(message):
     bot.send_message(
-        message.chat.id, "Howdy, how are you doing?")
+        message.chat.id, "Hello, Turing!")
 
 
 @bot.message_handler(func=lambda message: True)

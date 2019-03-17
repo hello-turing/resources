@@ -18,7 +18,7 @@ logger = logging.getLogger(__name__)
 def send_welcome(message):
     markup = types.ReplyKeyboardRemove(selective=False)
     bot.send_message(
-        message.chat.id, "Howdy, how are you doing?", reply_markup=markup)
+        message.chat.id, "Hello, Turing!", reply_markup=markup)
 
 
 @bot.message_handler(func=lambda message: True)

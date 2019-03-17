@@ -14,7 +14,6 @@ class _Bot(object):
     def __init__(self):
         self.bot = telebot.TeleBot(
             "708293438:AAEHbWJK0UTwMddBCuc-9C6t3ia1txcmu44")
-
         # set webhook
         # self.bot.set_webhook(url="http://example.com",
         #                certificate=open('mycert.pem'))

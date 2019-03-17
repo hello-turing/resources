@@ -1,6 +1,5 @@
 #! /usr/bin/env python
 # -*- coding: utf-8 -*-
-import threading
 
 import telebot
 import logging
@@ -17,17 +16,16 @@ logger = logging.getLogger(__name__)
 @bot.message_handler(commands=['start'])
 def send_welcome(message):
     bot.send_message(
-        message.chat.id, "Howdy, how are you doing?")
-
-
-def printit():
-  threading.Timer(5.0, printit).start()
-  print ("Hello, World!")
+        message.chat.id, "Hello, Turing!")
 
 
 @bot.message_handler(func=lambda message: True)
 def echo_all(message):
     bot.reply_to(message, message.text)
+    show_borg()
+
+
+def show_borg():
     rm1 = UserBorg()
     rm2 = UserBorg()
 
@@ -50,11 +48,8 @@ def echo_all(message):
     print('rm1: {0}'.format(rm1))
     print('rm2: {0}'.format(rm2))
     print('rm3: {0}'.format(rm3))
-    bot.get_me()
+    print('------------------------------------')
 
 
 if __name__ == '__main__':
     bot.polling()
-    printit()
- 
-
